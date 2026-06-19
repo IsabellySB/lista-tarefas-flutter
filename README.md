@@ -10,7 +10,7 @@ Projeto desenvolvido para a disciplina de DESENVOLVIMENTO PARA DISPOSITIVOS MÓV
 - Calendário para escolher o dia
 - Lista de tarefas por dia
 - Adicionar, concluir e remover tarefas
-- Tarefas pendentes aparecem primeiro, depois as concluídas — ambas em ordem alfabética
+- Tarefas pendentes aparecem primeiro, depois as concluídas (ambas em ordem alfabética)
 
 ---
 
