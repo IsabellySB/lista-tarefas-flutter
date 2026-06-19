@@ -1,6 +1,6 @@
 # Lista de Tarefas Diárias
 
-Projeto desenvolvido para a disciplina de Desenvolvimento Mobile. O app foi criado em Flutter e permite organizar as tarefas do dia a dia de forma simples e visual.
+Projeto desenvolvido para a disciplina de DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS. O app foi criado em Flutter e permite organizar as tarefas do dia a dia de forma simples e visual.
 
 ---
 
